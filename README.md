@@ -1,10 +1,10 @@
 # **Overview**  
 
-This repository contains the necessary data files, source code, and notebooks required to generate the figures included in the manuscript, *Predicting viral sensitivity to antibodies using genetic sequences and antibody similarities* ([BioRxiv](https://www.biorxiv.org/content/10.1101/2025.08.08.669352v1.full)).  
+This repository contains the necessary data files, source code, and notebooks required to generate the figures included in the manuscript, *Predicting viral sensitivity to antibodies using genetic sequences and antibody similarities* ([bioRxiv](https://www.biorxiv.org/content/10.1101/2025.08.08.669352v1.full)).  
 
 Our proposed method, **Grouped Neutralization Learning (GNL)**, predicts neutralization values from partial neutralization data (e.g., IC50, IC80, etc.) and viral surface protein sequences. In this study, we focus specifically on HIV-1 sequences and anti-HIV-1 titer values.  
 
-<! -- The primary purpose of this repository is to reproduce the results reported in the manuscript. Therefore, we provide notebooks and source code that perform analysis and evaluate the method’s performance. However, we have a separate repository dedicated solely to predicting neutralization values given new neutralization data and viral sequences. If you are primarily interested in the application of our software, please visit the repository for *Title* ([bioRxiv](https://www.biorxiv.org/content/10.1101/2025.08.08.669352v1.full)).  i-->
+<!-- The primary purpose of this repository is to reproduce the results reported in the manuscript. Therefore, we provide notebooks and source code that perform analysis and evaluate the method’s performance. However, we have a separate repository dedicated solely to predicting neutralization values given new neutralization data and viral sequences. If you are primarily interested in the application of our software, please visit the repository for *Title* ([bioRxiv](https://www.biorxiv.org/content/10.1101/2025.08.08.669352v1.full)).  i-->
 
 ---
 
