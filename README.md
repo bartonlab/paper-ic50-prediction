@@ -1,24 +1,24 @@
 # **Overview**  
 
-This repository contains the necessary data files, source code, and notebooks required to generate the figures included in the manuscript, *A simple and interpretable framework for neutralization matrix completion* ([link](INSERT_LINK_HERE)).  
+This repository contains the necessary data files, source code, and notebooks required to generate the figures included in the manuscript, *Predicting viral sensitivity to antibodies using genetic sequences and antibody similarities* ([BioRxiv](https://www.biorxiv.org/content/10.1101/2025.08.08.669352v1.full)).  
 
 Our proposed method, **Grouped Neutralization Learning (GNL)**, predicts neutralization values from partial neutralization data (e.g., IC50, IC80, etc.) and viral surface protein sequences. In this study, we focus specifically on HIV-1 sequences and anti-HIV-1 titer values.  
 
-The primary purpose of this repository is to reproduce the results reported in the manuscript. Therefore, we provide notebooks and source code that perform analysis and evaluate the method’s performance. However, we have a separate repository dedicated solely to predicting neutralization values given new neutralization data and viral sequences. If you are primarily interested in the application of our software, please visit the repository for *Title* ([link](INSERT_LINK_HERE)).  
+<! -- The primary purpose of this repository is to reproduce the results reported in the manuscript. Therefore, we provide notebooks and source code that perform analysis and evaluate the method’s performance. However, we have a separate repository dedicated solely to predicting neutralization values given new neutralization data and viral sequences. If you are primarily interested in the application of our software, please visit the repository for *Title* ([bioRxiv](https://www.biorxiv.org/content/10.1101/2025.08.08.669352v1.full)).  i-->
 
 ---
 
 ## **Manuscript Information**  
 
 **Title of Paper**  
-Kai S. Shimagaki<sup>1,2</sup>, Gargi Kher<sup>1</sup>, Rebecca M.~Lynch<sup>3</sup>, and John P. Barton<sup>1,2,#</sup>  
+Kai S. Shimagaki<sup>1,2</sup>, Gargi Kher<sup>1</sup>, Rebecca M. Lynch<sup>3</sup>, and John P. Barton<sup>1,2,#</sup>  
 
 <sup>1</sup> Department of Computational and Systems Biology, University of Pittsburgh School of Medicine, USA.  
 <sup>2</sup> Department of Physics and Astronomy, University of Pittsburgh, USA.
 <sup>3</sup> Department of Microbiology, Immunology and Tropical Medicine, School of Medicine and Health Sciences, George Washington University, USA.
 <sup>#</sup> Correspondence: [jpbarton@pitt.edu](mailto:jpbarton@pitt.edu)  
 
-The preprint is available at [INSERT LINK HERE].  
+The preprint is available at [bioRxiv](https://www.biorxiv.org/content/10.1101/2025.08.08.669352v1.full).  
 
 ---
 
@@ -66,7 +66,7 @@ The **`notebooks/`** directory contains three primary Jupyter notebooks:
 ## **Software Dependencies**  
 
 The code is implemented in **Julia (version 1.8)** and uses the following standard libraries:  
-- **X**, **Y**, **Z** (list relevant libraries)  
+- **Random**, **LinearAlgebra**, **StatsBase**, **Distributed**, **Statistics**, **DelimitedFiles**, **Printf**
 
 ---
 
@@ -80,5 +80,5 @@ This repository is **dual-licensed** under:
 
 ### **Additional Notes**  
 - If you encounter any issues or have questions, please reach out via **GitHub issues** or email the corresponding author.  
-- For users interested in applying the method to their own data, please refer to the separate repository: [*Title* (link)].  
+<!-- - For users interested in applying the method to their own data, please refer to the separate repository: [**Predicting viral sensitivity to antibodies using genetic sequences and antibody similarities** (Link)].  -->
 
