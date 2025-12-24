@@ -10,7 +10,7 @@ Our proposed method, **Grouped Neutralization Learning (GNL)**, predicts neutral
 
 ## **Manuscript Information**  
 
-**Title of Paper**  
+**Predicting viral sensitivity to antibodies using genetic sequences and antibody similarities**  
 Kai S. Shimagaki<sup>1,2</sup>, Gargi Kher<sup>1</sup>, Rebecca M. Lynch<sup>3</sup>, and John P. Barton<sup>1,2,#</sup>  
 
 <sup>1</sup> Department of Computational and Systems Biology, University of Pittsburgh School of Medicine, USA.  
