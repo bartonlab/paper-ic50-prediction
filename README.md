@@ -18,7 +18,7 @@ Kai S. Shimagaki<sup>1,2</sup>, Gargi Kher<sup>1</sup>, Rebecca M. Lynch<sup>3</
 <sup>3</sup> Department of Microbiology, Immunology and Tropical Medicine, School of Medicine and Health Sciences, George Washington University, USA.
 <sup>#</sup> Correspondence: [jpbarton@pitt.edu](mailto:jpbarton@pitt.edu)  
 
-The preprint is available at [bioRxiv](https://www.biorxiv.org/content/10.1101/2025.08.08.669352v1.full).  
+This study is published from [PLOS Computational Biology](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1014095).  
 
 ---
 
@@ -30,7 +30,7 @@ This repository contains the following directories:
   - **`data/raw/`** – Raw data before processing  
   - **`data/processed/`** – Processed data for analysis  
 - **`src/`** – Source code files  
-- **`notebooks/`** – Jupyter notebooks for data processing, analysis, and figure generation  
+- **`notebooks/`** – Jupyter notebooks for figure generation  
 - **`figures/`** – Generated figures, which can be produced using `figures/figures.ipynb`  
 
 The **`data/raw/`** directory contains neutralization data obtained from the **CATNAP database** (retrieved in November 2024). It also includes HIV-1 surface protein sequences obtained from the **HIV database** and aligned using the **HIV-Align tool** provided by LANL.  
