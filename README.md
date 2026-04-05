@@ -37,27 +37,7 @@ The **`data/raw/`** directory contains neutralization data obtained from the **C
 
 ---
 
-## **Notebooks Overview**  
-
-The **`notebooks/`** directory contains three primary Jupyter notebooks:  
-
-### 1. **`process_data.ipynb`**  
-- Preprocesses raw neutralization data from the **CATNAP database** (LANL) and viral sequences in **FASTA format**.  
-- Generates multiple processed files necessary for neutralization imputation and subsequent analysis.  
-- Outputs include:  
-  - **One-hot encoded sequences** (filtered for data quality)  
-  - **Projected sequences** (dimensionality reduction of one-hot encoded sequences)  
-  - **PCA space representation** (projected sequences onto PCA space)  
-  - **Neutralization matrices** (rows: antibodies, columns: viruses) with and without filtering  
-  - **Accessory files** for further analysis  
-
-### 2. **`analysis.ipynb`**  
-- Evaluates imputation performance by withholding neutralization values **at random** at multiple withholding rates (effectively 1 - observed data fraction).  
-- Partitions imputed data based on:  
-  - Number of observations per entry  
-  - Standard deviation (quantifying heterogeneity of neutralization values, a key parameter for assessing imputation performance)  
-
-### 3. **`figures.ipynb`**  
+###  **`figures.ipynb`**  
 - Uses results from `analysis.ipynb` to generate **visualizations** of the imputation analysis.  
 - Outputs figures stored in the **`figures/`** directory.  
 
