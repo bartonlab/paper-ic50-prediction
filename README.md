@@ -22,24 +22,46 @@ This study is published from [PLOS Computational Biology](https://journals.plos.
 
 ---
 
-## **Repository Contents**  
+## **Repository Contents**
 
-This repository contains the following directories:  
+This repository contains the following directories:
 
-- **`data/`** – Contains all data files  
-  - **`data/raw/`** – Raw data before processing  
-  - **`data/processed/`** – Processed data for analysis  
-- **`src/`** – Source code files  
-- **`notebooks/`** – Jupyter notebooks for figure generation  
-- **`figures/`** – Generated figures, which can be produced using `figures/figures.ipynb`  
+- **`raw-data/`** – Raw input data retrieved from LANL databases
+- **`processed-data/`** – Processed data files used for simulation
+- **`src/`** – Julia source code files
+- **`note/`** – Jupyter notebooks for data processing, simulation, and visualization
+- **`figures/`** – Generated figures
 
-The **`data/raw/`** directory contains neutralization data obtained from the **CATNAP database** (retrieved in November 2024). It also includes HIV-1 surface protein sequences obtained from the **HIV database** and aligned using the **HIV-Align tool** provided by LANL.  
+### **`raw-data/`**
+This directory contains the raw data used in this project, retrieved from LANL databases. These include:
 
----
+- neutralization data from the **CATNAP database**
+- HIV-1 envelope sequence data from the **LANL HIV database**
 
-###  **`figures.ipynb`**  
-- Uses results from `analysis.ipynb` to generate **visualizations** of the imputation analysis.  
-- Outputs figures stored in the **`figures/`** directory.  
+These raw datasets are used as the starting point for downstream preprocessing and simulation.
+
+### **`processed-data/`**
+This directory contains the processed data files used for simulation.
+
+These files are generated from the raw data using the following notebooks:
+
+- **`process_non-alignment-features.ipynb`** – processes the non-alignment-based features
+- **`process.ipynb`** – processes the remaining required data files
+
+### **`GNL.ipynb`**
+This notebook runs the neutralization matrix imputation simulations.
+
+It imputes missing neutralization values and also evaluates imputation performance by randomly withholding observed values, imputing them, and exporting the imputed results for comparison with the true withheld values.
+
+This notebook also analyzes the rank dependency of imputation performance.
+
+### **`simple_visualization_of_imputation_results.ipynb`**
+This notebook visualizes the imputation results.
+
+It includes:
+
+- scatter plots comparing imputed values with the true withheld values
+- figures showing the rank dependency of imputation accuracy
 
 ---
 
