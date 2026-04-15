@@ -1,6 +1,6 @@
 # **Overview**  
 
-This repository contains the necessary data files, source code, and notebooks required to generate the figures included in the manuscript, *Predicting viral sensitivity to antibodies using genetic sequences and antibody similarities* ([bioRxiv](https://www.biorxiv.org/content/10.1101/2025.08.08.669352v1.full)).  
+This repository contains the necessary data files, source code, and notebooks required to generate the figures included in the manuscript, *Predicting viral sensitivity to antibodies using genetic sequences and antibody similarities* ([PLOS Computational Biology](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1014095)).  
 
 Our proposed method, **Grouped Neutralization Learning (GNL)**, predicts neutralization values from partial neutralization data (e.g., IC50, IC80, etc.) and viral surface protein sequences. In this study, we focus specifically on HIV-1 sequences and anti-HIV-1 titer values.  
 
@@ -30,7 +30,6 @@ This repository contains the following directories:
 - **`processed-data/`** – Processed data files used for simulation
 - **`src/`** – Julia source code files
 - **`note/`** – Jupyter notebooks for data processing, simulation, and visualization
-- **`figures/`** – Generated figures
 
 ### **`raw-data/`**
 This directory contains the raw data used in this project, retrieved from LANL databases. These include:
