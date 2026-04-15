@@ -1,0 +1,497 @@
+Antibody,Type,Epitope,site,abs_class
+10-1074,V3 glycan-targeting,,,V3-glycan
+10-1074-IgG3C,V3 glycan-targeting,,,V3-glycan
+10-996,V3 glycan-targeting,,,V3-glycan
+1E+09,MPER-targeting,,,MPER
+10E8v4,MPER-targeting,,,MPER
+10E8v4-5R-100cF,MPER-targeting,,,MPER
+12A12,CD4 binding site-targeting,,,CD4bs
+15e,"CD4 binding site-targeting, glycan",,,CD4bs
+179NC75,CD4 binding site-targeting,,,CD4bs
+17b,CD4-induced epitope targeting,,,CD4bs
+1B2530,CD4 binding site-targeting,,,CD4bs
+2F5,MPER-targeting,,,MPER
+2G12,Glycan-targeting,,,interface/FP
+3074,V3 loop-targeting,,,V3-glycan
+35O22,gp120-gp41 interface-targeting,,,interface/FP
+3BNC117,CD4 binding site-targeting,,,CD4bs
+3BNC117-IgG3C,CD4 binding site-targeting (IgG3 version),,,CD4bs
+3BNC55,CD4 binding site-targeting,,,CD4bs
+447-52D,V3 loop-targeting,,,V3-glycan
+45-46m2,CD4 binding site-targeting,,,CD4bs
+45-46m25,CD4 binding site-targeting,,,CD4bs
+45-46m28,CD4 binding site-targeting,,,CD4bs
+45-46m7,CD4 binding site-targeting,,,CD4bs
+48d,V3 loop-targeting,,,V3-glycan
+4E+10,MPER-targeting,,,MPER
+561_01_18,CD4 binding site-targeting,,,CD4bs
+561_01_55,CD4 binding site-targeting,,,CD4bs
+561_02_12,CD4 binding site-targeting,,,CD4bs
+8ANC131,CD4 binding site-targeting,,,CD4bs
+8ANC134,CD4 binding site-targeting,,,CD4bs
+8ANC195,gp41-gp120 interface,,,interface/FP
+8ANC195-IgG3C,gp41-gp120 interface,,,interface/FP
+BG1,V1 and V2 loop-targeting,,,V2-apex
+BG18,V3 loop-targeting,,,V3-glycan
+BG8,V3 loop-targeting,,,V3-glycan
+Bi-NAb,V3 loop-targeting,,,V3-glycan
+Bi-ScFv,V3 loop-targeting,,,V3-glycan
+CAP257-RH1,"CD4 binding site-targeting, glycan",,,CD4bs
+CD4-Ig,CD4 binding site-targeting,,,CD4bs
+CH01,V1 and V2 loop-targeting,,,V2-apex
+CH02,V1 and V2 loop-targeting,,,V2-apex
+CH04,V1 and V2 loop-targeting,,,V2-apex
+CH103,CD4 binding site-targeting,,,CD4bs
+CH235,CD4 binding site-targeting,,,CD4bs
+CH235.12,CD4 binding site-targeting,,,CD4bs
+CH235.9,CD4 binding site-targeting,,,CD4bs
+DH270.1,V3 loop-targeting,,,V3-glycan
+DH270.5,V3 loop-targeting,,,V3-glycan
+DH270.6,V3 loop-targeting,,,V3-glycan
+DH511.11P,MPER-targeting,,,MPER
+DH511.12P,MPER-targeting,,,MPER
+DH511.2,MPER-targeting,,,MPER
+DH511.2_K3,MPER-targeting,,,MPER
+F105,CD4 binding site-targeting,,,CD4bs
+HGN194,V3 loop-targeting,RRSVRIGPGQTF,306_317,V3-glycan
+HJ16,CD4 binding site-targeting,,,CD4bs
+HK20,gp41-gp120,QQHLLQLTVWGIKQL,562_576,interface/FP
+IOMA,CD4 binding site-targeting,,,CD4bs
+JM4-IgG2b,CD4 binding site-targeting,,,CD4bs
+N6,CD4 binding site-targeting,,,CD4bs
+NC37,CD4 binding site-targeting,,,CD4bs
+NIH45-46,CD4 binding site-targeting,,,CD4bs
+NIH45-46G54W,CD4 binding site-targeting,,,CD4bs
+NIH45-46WPY,CD4 binding site-targeting,,,CD4bs
+NIH45-46WY,CD4 binding site-targeting,,,CD4bs
+PCDN-33A,V3 loop-targeting,,,V3-glycan
+PCDN-38A,V3 loop-targeting,,,V3-glycan
+PCDN-38B,V3 loop-targeting,,,V3-glycan
+PCT64-18D,V2 loop-targeting,,,V2-apex
+PCT64-24E,V2 loop-targeting,,,V2-apex
+PCT64-24F,V2 loop-targeting,,,V2-apex
+PCT64-35B,V2 loop-targeting,,,V2-apex
+PCT64-35D,V2 loop-targeting,,,V2-apex
+PCT64-35G,V2 loop-targeting,,,V2-apex
+PCT64-35M,V2 loop-targeting,,,V2-apex
+PCT64-35O,V2 loop-targeting,,,V2-apex
+PCT64-35S,V2 loop-targeting,,,V2-apex
+PG16,"V2 loop-targeting, glycan",,,V2-apex
+PG16-iMab,"CD4 binding site-targeting, CD4",,,CD4bs
+PG9,"V1 and V2 loop-targeting, glycan",,,V2-apex
+PG9-PG16-RSH,V2 loop-targeting,,,V2-apex
+PG9-iMab,"V2 loop-targeting, CD4",,,CD4bs
+PGDM11,V3 loop-targeting,,,V3-glycan
+PGDM12,V3 loop-targeting,,,V3-glycan
+PGDM1400,V2 loop-targeting,,,V2-apex
+PGDM1401,V2 loop-targeting,,,V2-apex
+PGDM1402,V2 loop-targeting,,,V2-apex
+PGDM1403,V2 loop-targeting,,,V2-apex
+PGDM1404,V2 loop-targeting,,,V2-apex
+PGDM1405,V2 loop-targeting,,,V2-apex
+PGDM1406,V2 loop-targeting,,,V2-apex
+PGDM21,V3 loop-targeting,,,V3-glycan
+PGT121,V3 loop-targeting,,,V3-glycan
+PGT123,V3 loop-targeting,,,V3-glycan
+PGT124,V3 loop-targeting,,,V3-glycan
+PGT125,V3 loop-targeting,,,V3-glycan
+PGT126,V3 loop-targeting,,,V3-glycan
+PGT127,V3 loop-targeting,,,V3-glycan
+PGT128,V3 loop-targeting,,,V3-glycan
+PGT128-IgG3C,"V3 loop-targeting, gp41",,,V3-glycan
+PGT130,V3 glycan-targeting,,,V3-glycan
+PGT135,V3 glycan-targeting,,,V3-glycan
+PGT135-IgG3C,V3 glycan-targeting (IgG3 version),,,V3-glycan
+PGT142,V1 and V2 glycan-targeting,,,V2-apex
+PGT143,V1 and V2 glycan-targeting,,,V2-apex
+PGT145,V2 glycan-targeting,,,V2-apex
+PGT151,gp120-gp41 interface-targeting,,,interface/FP
+PGT151-IgG3C,gp120-gp41 interface-targeting (IgG3 version),,,interface/FP
+PGT152,gp120-gp41 interface-targeting,,,interface/FP
+Tri-NAb,"CD4 binding site targeting, V3, MPER, gp41",,,CD4bs
+VRC-CH31,CD4 binding site-targeting,,,CD4bs
+VRC-PG04,CD4 binding site-targeting,,,CD4bs
+VRC-PG04b,CD4 binding site-targeting,,,CD4bs
+VRC-PG05,gp120 binding,,,interface/FP
+VRC-PG20,CD4 binding site-targeting,,,CD4bs
+VRC01,CD4 binding site-targeting,,,CD4bs
+VRC02,CD4 binding site-targeting,,,CD4bs
+VRC03,CD4 binding site-targeting,,,CD4bs
+VRC06,CD4 binding site-targeting,,,CD4bs
+VRC06b,CD4 binding site-targeting,,,CD4bs
+VRC07,CD4 binding site-targeting (LS version),,,CD4bs
+VRC07-501-LS,CD4 binding site-targeting (LS version),,,CD4bs
+VRC07-508-LS,CD4 binding site-targeting (LS version),,,CD4bs
+VRC07-523-LS,CD4 binding site-targeting (LS version),,,CD4bs
+VRC07-544-LS,CD4 binding site-targeting,,,CD4bs
+VRC13,CD4 binding site-targeting,,,CD4bs
+VRC16,CD4 binding site-targeting,,,CD4bs
+VRC18,CD4 binding site-targeting,,,CD4bs
+VRC22.01,V3 glycan-targeting,,,V3-glycan
+VRC23,CD4 binding site-targeting,,,CD4bs
+VRC26.01,V1 and V2 loop-targeting,,,V2-apex
+VRC26.03,V1 and V2 loop-targeting,,,V2-apex
+VRC26.06,V1 and V2 loop-targeting,,,V2-apex
+VRC26.08,V1 and V2 loop-targeting,,,V2-apex
+VRC26.09,V1 and V2 loop-targeting,,,V2-apex
+VRC26.25,V1 and V2 loop-targeting,,,V2-apex
+VRC26.26,V1 and V2 loop-targeting,,,V2-apex
+VRC26.27,V1 and V2 loop-targeting,,,V2-apex
+VRC27,CD4 binding site-targeting,,,CD4bs
+VRC29.03,V3 loop-targeting,,,V3-glycan
+VRC34.01,gp41 fusion peptide,AVGIGAVF,512_519,interface/FP
+VRC38.01,V2 loop-targeting,,,V2-apex
+Z13e1,"gp41, MPER",WASLWNWFDITN,666_677,MPER
+b12,non-Env,GISYGRKKRRQRRPPQG,44_60,interface/FP
+b13,CD4 binding site-targeting,,,CD4bs
+gVRC-H1dC38-VRC01L,CD4 binding site-targeting,,,CD4bs
+iMab,CD4-induced epitope-targeting,,,CD4bs
+m66,"gp41, MPER",LDKW,663_666,MPER
+m66.6,"gp41, MPER",LDKW,663_666,MPER
+sCD4,Soluble CD4,,,CD4bs
+vFP1.01,gp41 fusion peptide,,,interface/FP
+vFP16.02,gp41 fusion peptide,,,interface/FP
+vFP20.01,gp41 fusion peptide,,,interface/FP
+vFP5.01,gp41 fusion peptide,,,interface/FP
+vFP7.04,gp41 fusion peptide,,,interface/FP
+vFP7.05,gp41 fusion peptide,,,interface/FP
+ACS202,"gp41 fusion peptide, glycan",,,interface/FP
+AIIMS-P01,V3 loop-targeting,,,V3-glycan
+10-1074V,V3 glycan-targeting,,,V3-glycan
+10A3,V3 loop-targeting,RKSIRIG,304_310,V3-glycan
+10A37,V3 loop-targeting,GQAFYATGDII,314_324,V3-glycan
+VRC07xPG9-16,CD4 binding site targeting V2,,,CD4bs
+J3,non-Env,,,interface/FP
+PGT153,"gp41, glycan",,,interface/FP
+PGT154,"gp41, glycan",,,interface/FP
+PGT155,"gp41, glycan",,,interface/FP
+PGT156,"gp41, glycan",,,interface/FP
+PGT157,"gp41, glycan",,,interface/FP
+PGT158,"gp41, glycan",,,interface/FP
+VRC24,V3 glycan-targeting,,,V3-glycan
+VRC26.02,V1 and V2 loop-targeting,,160_169,V2-apex
+VRC26.04,V1 and V2 loop-targeting,,160_170,V2-apex
+VRC26.05,V1 and V2 loop-targeting,,160_171,V2-apex
+VRC26.07,V1 and V2 loop-targeting,,160_172,V2-apex
+VRC26.10,V1 and V2 loop-targeting,,160_173,V2-apex
+VRC26.11,V1 and V2 loop-targeting,,160_174,V2-apex
+VRC26.12,V1 and V2 loop-targeting,,160_175,V2-apex
+VRC26.13,V1 and V2 loop-targeting,,160_176,V2-apex
+VRC26.14,V1 and V2 loop-targeting,,160_177,V2-apex
+VRC26.15,V1 and V2 loop-targeting,,160_178,V2-apex
+VRC26.16,V1 and V2 loop-targeting,,160_179,V2-apex
+VRC26.17,V1 and V2 loop-targeting,,160_180,V2-apex
+VRC26.18,V1 and V2 loop-targeting,,160_181,V2-apex
+VRC26.19,V1 and V2 loop-targeting,,160_182,V2-apex
+VRC26.20,V1 and V2 loop-targeting,,160_183,V2-apex
+VRC26.21,V1 and V2 loop-targeting,,160_184,V2-apex
+VRC26.22,V1 and V2 loop-targeting,,160_185,V2-apex
+VRC26.23,V1 and V2 loop-targeting,,160_186,V2-apex
+VRC26.24,V1 and V2 loop-targeting,,160_187,V2-apex
+VRC26.28,V1 and V2 loop-targeting,,160_188,V2-apex
+VRC26.29,V1 and V2 loop-targeting,,160_189,V2-apex
+VRC26.30,V1 and V2 loop-targeting,,160_190,V2-apex
+VRC26.31,V1 and V2 loop-targeting,,160_191,V2-apex
+VRC26.32,V1 and V2 loop-targeting,,160_192,V2-apex
+VRC26.33,V1 and V2 loop-targeting,,160_193,V2-apex
+VRC41.01,V3 loop-targeting,,,V3-glycan
+NIH45-46G54F,CD4 binding site-targeting,,,CD4bs
+NIH45-46G54Y,CD4 binding site-targeting,,,CD4bs
+3E+03,CD4 binding site-targeting,,,CD4bs
+A14,CD4 binding site-targeting,,,CD4bs
+B21,gp120 binding,TQLLLN,257_262,interface/FP
+B9,non-Env,,,interface/FP
+CH03,V1 and V2 loop-targeting,,,V2-apex
+CH12,"gp41, MPER",,,MPER
+CH13,CD4 binding site-targeting,,,CD4bs
+CH14,V3 loop-targeting,,,V3-glycan
+CH16,CD4 binding site-targeting,,,CD4bs
+CH17,CD4 binding site-targeting,,,CD4bs
+CH18,Env,,,interface/FP
+CH27,CD4 binding site-targeting,,,CD4bs
+CH28,CD4 binding site-targeting,,,CD4bs
+CH44,CD4 binding site-targeting,,,CD4bs
+CH45,CD4 binding site-targeting,,,CD4bs
+CH48,V3 loop-targeting,,,V3-glycan
+A16,CD4 binding site targeting,,,CD4bs
+Y498,CD4 binding site targeting,,,CD4bs
+10-1074GM,V3 glycan-targeting (GM),,,V3-glycan
+3BC176,g41,,,interface/FP
+3BC315,gp41,,,interface/FP
+CH98,CD4 binding site-targeting,,,CD4bs
+PGT121GM,V3 glycan-targeting (GM),,,V3-glycan
+2909,"CD4 bi, V2 and V3",,,CD4bs
+3BNC60,CD4 binding site-targeting,,,CD4bs
+12A21,CD4 binding site targeting,,,CD4bs
+1NC9,CD4 binding site targeting,,,CD4bs
+3BNC62,CD4 binding site-targeting,,,CD4bs
+1357,V2 loop-targeting,,,V2-apex
+1361,V2 loop-targeting,,,V2-apex
+1393A,V2 loop-targeting,,,V2-apex
+2158,V2 loop-targeting,,,V2-apex
+2191,V3 loop-targeting,,,V3-glycan
+2219,V3 loop-targeting,,,V3-glycan
+2557,V3 loop-targeting,,,V3-glycan
+2558,V3 loop-targeting,,,V3-glycan
+3019,V3 loop-targeting,,,V3-glycan
+3694,V3 loop-targeting,,,V3-glycan
+3791,V3 loop-targeting,,,V3-glycan
+3869,V3 loop-targeting,,,V3-glycan
+3881,V3 loop-targeting,,,V3-glycan
+3904,V3 loop-targeting,,,V3-glycan
+3906,V3 loop-targeting,,,V3-glycan
+4022,V3 loop-targeting,,,V3-glycan
+4025,V3 loop-targeting,,,V3-glycan
+4121,V3 loop-targeting,,,V3-glycan
+4139,V3 loop-targeting,,,V3-glycan
+4210,V3 loop-targeting,,,V3-glycan
+4487,V3 loop-targeting,,,V3-glycan
+4490,V3 loop-targeting,,,V3-glycan
+4508,V3 loop-targeting,,,V3-glycan
+697-D,V2 loop-targeting,ISTSIRGKVQKEYAFFYKLD,161_180,V2-apex
+830A,V2 loop-targeting,,,V2-apex
+DRVIA7,CD4 binding site targeting,,,CD4bs
+JM4,CD4 binding site-targeting,,,CD4bs
+JM4-IgG3,CD4 binding site-targeting,,,CD4bs
+m66-G30K,"gp41, MPER",LDKW,663_666,MPER
+m66-S28H,"gp41, MPER",LDKW,663_667,MPER
+m66-S28H-G30K,"gp41, MPER",LDKW,663_668,MPER
+m66-S28H-G30K-S31K,"gp41, MPER",LDKW,663_669,MPER
+m66-S31K,"gp41, MPER",LDKW,663_670,MPER
+m66-Y100eW,"gp41, MPER",LDKW,663_671,MPER
+BF520.1,V3 loop-targeting,,,V3-glycan
+BiIA-SG,V3 loop-targeting,,,V3-glycan
+DH511.1,"gp41, MPER",,,MPER
+DH511.3,"gp41, MPER",,,MPER
+DH511.4,"gp41, MPER",,,MPER
+DH511.5,"gp41, MPER",,,MPER
+DH511.6,"gp41, MPER",,,MPER
+QA013.2,V2 and V3 loop,,,V3-glycan
+VRC23b,CD4 binding site targeting,,,CD4bs
+DH270.2,V3-glycan targeting,,,V3-glycan
+DH270.3,V3-glycan targeting,,,V3-glycan
+DH270.4,V3-glycan targeting,,,V3-glycan
+DH270.IA1,V3-glycan targeting,,,V3-glycan
+DH270.IA2,V3-glycan targeting,,,V3-glycan
+DH270.IA3,V3-glycan targeting,,,V3-glycan
+DH270.IA4,V3-glycan targeting,,,V3-glycan
+DH517,"gp41, MPER",,,MPER
+DH563,V3 loop-targeting,,,V3-glycan
+PGT141,V1 and V2 loop-targeting,,,V2-apex
+VRC38.02,V2 loop-targeting,,,V2-apex
+VRC38.03,V2 loop-targeting,,,V2-apex
+VRC38.04,V2 loop-targeting,,,V2-apex
+VRC38.05,V2 loop-targeting,,,V2-apex
+VRC38.06,V2 loop-targeting,,,V2-apex
+VRC38.07,V2 loop-targeting,,,V2-apex
+VRC38.08,V2 loop-targeting,,,V2-apex
+VRC38.09,V2 loop-targeting,,,V2-apex
+VRC38.10,V2 loop-targeting,,,V2-apex
+VRC38.11,V2 loop-targeting,,,V2-apex
+VRC38.12,V2 loop-targeting,,,V2-apex
+VRC38.13,V2 loop-targeting,,,V2-apex
+VRC38.14,V2 loop-targeting,,,V2-apex
+VRC41.02,V3 loop-targeting,,,V3-glycan
+1F7,CD4 binding site targeting,,,CD4bs
+7H6,"gp41, MPER",,,MPER
+CH106,CD4 binding site-targeting,,,CD4bs
+VRC21.01,V3 loop-targeting,,,V3-glycan
+VRC21.02,V3 loop-targeting,,,V3-glycan
+VRC28.01,V3 loop-targeting,,,V3-glycan
+VRC29.01,V3 loop-targeting,,,V3-glycan
+VRC29.02,V3 loop-targeting,,,V3-glycan
+VRC29.04,V3 loop-targeting,,,V3-glycan
+VRC34YD.01,gp41,,,interface/FP
+VRC34YD.02,gp41,,,interface/FP
+VRC34YD.03,gp41,,,interface/FP
+VRC34YD.04,gp41,,,interface/FP
+VRC34YD.05,gp41,,,interface/FP
+VRC34YD.06,gp41,,,interface/FP
+VRC34YD.07,gp41,,,interface/FP
+BiIA-DG,"V3 loop-targeting, CD4",,,CD4bs
+10-1121,V3-glycan targeting,,,V3-glycan
+10-1130,V3-glycan targeting,,,V3-glycan
+10-1146,V3-glycan targeting,,,V3-glycan
+10-1341,V3-glycan targeting,,,V3-glycan
+10-1369,V3-glycan targeting,,,V3-glycan
+10-259,V3-glycan targeting,,,V3-glycan
+10-303,V3-glycan targeting,,,V3-glycan
+10-410,V3-glycan targeting,,,V3-glycan
+10-847,V3-glycan targeting,,,V3-glycan
+1B5,CD4 binding site targeting,,,CD4bs
+1C2,"CD4 binding site targeting, V2",,,CD4bs
+1E+01,gp41,,,interface/FP
+1E+02,gp41,,,interface/FP
+1F10,Env,,,interface/FP
+1H9,non-Env,LEKIEEEQNKSKKKA,gag_101_115,interface/FP
+2D4,"CD4 binding site targeting, V2",,,CD4bs
+2E+07,non-Env,PLTEEAELELAENREILKEPVHGVY,pol_449_473,interface/FP
+A12,gp41,,,interface/FP
+C8,non-Env,LKETINEEAAEWDRVHPV,gag_201_218,interface/FP
+D7,non-Env,YCVHQRIEIKDTKEALDKIEEEQNKSKKKA,gag_86_115,interface/FP
+KD-247,V3 loop-targeting,IGPGR,311_315,V3-glycan
+PCT64-18B,V2 loop-targeting,,,V2-apex
+PCT64-18C,V2 loop-targeting,,,V2-apex
+PCT64-18F,V2 loop-targeting,,,V2-apex
+PCT64-24A,V2 loop-targeting,,,V2-apex
+PCT64-24B,V2 loop-targeting,,,V2-apex
+PCT64-24G,V2 loop-targeting,,,V2-apex
+PCT64-24H,V2 loop-targeting,,,V2-apex
+PCT64-35C,V2 loop-targeting,,,V2-apex
+PCT64-35E,V2 loop-targeting,,,V2-apex
+PCT64-35F,V2 loop-targeting,,,V2-apex
+PCT64-35H,V2 loop-targeting,,,V2-apex
+PCT64-35I,V2 loop-targeting,,,V2-apex
+PCT64-35K,V2 loop-targeting,,,V2-apex
+PCT64-35N,V2 loop-targeting,,,V2-apex
+PGC14,gp120,,,interface/FP
+PGT122,V3 loop-targeting,,,V3-glycan
+PGT131,V3 loop-targeting,,,V3-glycan
+PGT136,V3 loop-targeting,,,V3-glycan
+PGT137,V3 loop-targeting,,,V3-glycan
+PGT144,V2 loop targeting,,,V2-apex
+QA013.19,V2 loop targeting,,,V2-apex
+QA013.3,V2 loop targeting,,,V2-apex
+QA013.32,V2 loop targeting,,,V2-apex
+QA013.4,V2 loop targeting,,,V2-apex
+QA013.53,V2 loop targeting,,,V2-apex
+VRC-CH30,CD4 binding site targeting,,,CD4bs
+VRC-CH32,CD4 binding site targeting,,,CD4bs
+VRC-CH33,CD4 binding site targeting,,,CD4bs
+VRC-CH34,CD4 binding site targeting,,,CD4bs
+VRC-PG19,CD4 binding site targeting,,,CD4bs
+JM3,CD4 binding site targeting,,,CD4bs
+JM5,CD4 binding site targeting,,,CD4bs
+JM2,CD4 binding site targeting,,,CD4bs
+10J4,Env,,,interface/FP
+10M6,gp41,,,interface/FP
+13I10,gp41,,,interface/FP
+2N5,gp41,,,interface/FP
+4O20,gp41,,,interface/FP
+7B9,Env,,,interface/FP
+7K3,gp41,,,interface/FP
+CH104,CD4 binding site targeting,,,CD4bs
+CH105,CD4 binding site targeting,,,CD4bs
+CH31,CD4 binding site targeting,,,CD4bs
+CH103.IA1,CD4 binding site targeting,,,CD4bs
+CH103.IA2,CD4 binding site targeting,,,CD4bs
+CH103.IA3,CD4 binding site targeting,,,CD4bs
+CH103.IA4,CD4 binding site targeting,,,CD4bs
+CH103.IA5,CD4 binding site targeting,,,CD4bs
+CH103.IA6,CD4 binding site targeting,,,CD4bs
+CH103.IA7,CD4 binding site targeting,,,CD4bs
+CH103.IA8,CD4 binding site targeting,,,CD4bs
+CH236,CD4 binding site targeting,,,CD4bs
+CH239,CD4 binding site targeting,,,CD4bs
+CH240,CD4 binding site targeting,,,CD4bs
+CH241,CD4 binding site targeting,,,CD4bs
+CH235.IA1,CD4 binding site targeting,,,CD4bs
+CH235.IA2,CD4 binding site targeting,,,CD4bs
+CH235.IA3,CD4 binding site targeting,,,CD4bs
+CH235.IA4,CD4 binding site targeting,,,CD4bs
+0.5γ,V3 loop-targeting,,,V3-glycan
+CAP248-2B,gp41,,,interface/FP
+VRC01 gHC+gLC,CD4 binding site targeting,,,CD4bs
+3BNC176,CD4 binding site targeting,,,CD4bs
+VRC22,CD4 binding site targeting,,,CD4bs
+gl12A21,CD4 binding site targeting,,,CD4bs
+SF12,CD4 binding site targeting,,,CD4bs
+PGZL1,MPER-targeting,,,MPER
+LN01,MPER,,,MPER
+N60P23,CD4 binding site targeting,,,CD4bs
+N49P7,CD4 binding site targeting,,,CD4bs
+N49P6,CD4 binding site targeting,,,CD4bs
+m36,CD4i,,,CD4bs
+NC-Cow1,CD4 binding site targeting,,,CD4bs
+MEL-1872,CD4 binding site targeting,,,CD4bs
+7-269,Glycan-targeting,,,interface/FP
+CH58,V2,,,V2-apex
+CAP228-16H,V2,,,V2-apex
+438-B11,V3,,,V3-glycan
+BG24,CD4 binding site targeting,,,CD4bs
+Ab1485,V3,,,V3-glycan
+19.3H-L3,unclear,,,interface/FP
+VRC34.05,gp41,,,interface/FP
+QA255.105,V3,,,V3-glycan
+VRC42.01,MPER,,,MPER
+ACS101,CD4 binding site targeting,,,CD4bs
+ACS114,unclear,,,interface/FP
+ACS122,gp41,,,interface/FP
+E70,CD4 binding site targeting,,,CD4bs
+M4008_N1,V3,,,V3-glycan
+M1214_N1,unclear,,,interface/FP
+VRC01_FR3-03,CD4 binding site targeting,,,CD4bs
+VRC07_FR3-03,CD4 binding site targeting,,,CD4bs
+VRC07-523-LS_FR3-03,CD4 binding site targeting,,,CD4bs
+N6-FR3_03,CD4 binding site targeting,,,CD4bs
+VRC42.04,MPER,,,MPER
+VRC42.N1,MPER,,,MPER
+VRC43.01,MPER,,,MPER
+VRC46.01,MPER,,,MPER
+VRC42.02,MPER,,,MPER
+VRC42.03,MPER,,,MPER
+VRC43.02,MPER,,,MPER
+VRC43.03,MPER,,,MPER
+RHA1.V2.01,V2,,,V2-apex
+DF1W-a.01,gp41,,,interface/FP
+0PV-a.01,gp41,,,interface/FP
+0PV-b.01,gp41,,,interface/FP
+DFPH-a.01,gp41,,,interface/FP
+DFPH-a.15,gp41,,,interface/FP
+A12V163-a.01,gp41,,,interface/FP
+2411a,CD4 binding site targeting,,,CD4bs
+PC39-55D,V3,,,V3-glycan
+PC39-23D,V3,,,V3-glycan
+PC39-50I,V3,,,V3-glycan
+PC39-28D,V3,,,V3-glycan
+PC39-50K,V3,,,V3-glycan
+PC39-23C,V3,,,V3-glycan
+PC39-50E,V3,,,V3-glycan
+PC39-55C,V3,,,V3-glycan
+PC39-39B,V3,,,V3-glycan
+PC39-50H,V3,,,V3-glycan
+PC39-50L,V3,,,V3-glycan
+1605A1,unclear,,,interface/FP
+BG505.13,V3,,,V3-glycan
+CH59,V2,,,V2-apex
+4E9C,CD4i,,,CD4bs
+b6,CD4BS,,,CD4bs
+412d,CD4i,,,CD4bs
+654-D,CD4BS,,,CD4bs
+F425 B4e8,V3,,,V3-glycan
+b3,CD4BS,,,CD4bs
+O.1,V3,,,V3-glycan
+O.3,V3,,,V3-glycan
+O.4,V3,,,V3-glycan
+O.5,V3,,,V3-glycan
+2C06,gp41 fusion domain,,,interface/FP
+2C09,gp41 fusion domain,,,interface/FP
+A12V163-b.01,gp41 fusion domain,,,interface/FP
+0PV-c.01,gp41 fusion domain,,,interface/FP
+PCT64-LMCA,V2,,,V2-apex
+PG9-iGL,V2,,,V2-apex
+J038,V2,,,V2-apex
+J029,V2,,,V2-apex
+J031,V2,,,V2-apex
+J033,V2,,,V2-apex
+J040,V2,,,V2-apex
+CH235 IA1,"CD4BS, CH235 IA3",,,CD4bs
+EPTC112,V3,,,V3-glycan
+2C6,CD4i,,,CD4bs
+7B6,other,,,interface/FP
+6F5,other,,,interface/FP
+5C2,other,,,interface/FP
+5F4,other,,,interface/FP
+8F6,other,,,interface/FP
+4E4,other,,,interface/FP
+6F11,other,,,interface/FP
+7C6,other,,,interface/FP
+PG9_N100fY,"V2, PG9",,,V2-apex
+VRC34.01_mm28,gp41 fusion domain,,,interface/FP
+S96,V3,,,V3-glycan
+CAP228-3D,V2,,,V2-apex
+glNIH45-46,CD4BS,,,CD4bs
+PGZL1.H4K3,MPER,,,MPER
+AIIMS-44m,V3,,,V3-glycan
+VRC33.01,CD4BS,,,CD4bs
+VRC40.01,CD4BS,,,CD4bs
