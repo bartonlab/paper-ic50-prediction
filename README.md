@@ -14,11 +14,11 @@ Our proposed method, **Grouped Neutralization Learning (GNL)**, predicts neutral
 Kai S. Shimagaki<sup>1,2</sup>, Gargi Kher<sup>1</sup>, Rebecca M. Lynch<sup>3</sup>, and John P. Barton<sup>1,2,#</sup>  
 
 <sup>1</sup> Department of Computational and Systems Biology, University of Pittsburgh School of Medicine, USA.  
-<sup>2</sup> Department of Physics and Astronomy, University of Pittsburgh, USA.
+<sup>2</sup> Department of Physics and Astronomy, University of Pittsburgh, USA.  
 <sup>3</sup> Department of Microbiology, Immunology and Tropical Medicine, School of Medicine and Health Sciences, George Washington University, USA.  
 <sup>#</sup> Correspondence: [jpbarton@pitt.edu](mailto:jpbarton@pitt.edu)  
 
-This study is published from [PLOS Computational Biology](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1014095).  
+This study is published in [PLOS Computational Biology](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1014095).  
 
 ---
 
